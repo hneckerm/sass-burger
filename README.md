@@ -1,3 +1,3 @@
-### sass-burger
+# sass-burger
 
-## mockup template for a basic mobile restaurant website
+##### mockup template for a basic mobile restaurant website
