@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  font-size: 1em;
+  font-weight: 300; }
+
+h1 {
+  font-size: 3.074em; }
+
+h2 {
+  font-size: 1.728em; }
+
+h3 {
+  font-size: 1.34em;
+  font-weight: 300; }
+
+h4 {
+  font-size: 1.2em; }
+
+small {
+  font-size: 0.833em; }
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  text-align: center;
+  list-style: none;
+  background-color: #1175ad; }
+
+a {
+  color: white;
+  text-decoration: none; }
+
+h1 {
+  font-family: 'Pacifico', cursive; }
+
+.link-nav {
+  list-style: none;
+  display: inline;
+  padding: 0em; }
+
+.nav {
+  list-style: none;
+  text-align: center;
+  font-weight: 300;
+  padding-right: 2.5em; }
+
+#nav-button {
+  border-radius: 50%;
+  padding: 1em;
+  border: 4px solid white;
+  background: #64a5c9; }
+
+#nav-button:hover {
+  background: #1175ad; }
+
+.about, .menu-one, .menu-two, .menu-three {
+  margin-bottom: 0.5em;
+  margin: 1.5em;
+  border-radius: 15%;
+  border: 5px solid white;
+  background: #FF6A00;
+  width: 20em;
+  height: 25em;
+  color: white;
+  padding-top: 0.5em; }
+
+.about {
+  line-height: 1.6em;
+  height: 20rem;
+  font-weight: 300;
+  padding: 0.6em; }
+
+.menu-one {
+  padding-top: 1.25em;
+  height: 36.5em;
+  padding: 0;
+  list-style: none; }
+
+.menu-two {
+  height: 27em; }
+
+/*# sourceMappingURL=main.css.map */
